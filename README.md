@@ -7,3 +7,6 @@ Project 2 : Bike Rental System
   
 Project 3 : Top 1000 words
   Find the top 1000 recurring words from the novel "Harry Potter : The Sorcerer's Stone"
+
+Project 4 : Logistic Regression
+  Apply logistic regression on the Breast Cancer dataset from Kaggle
