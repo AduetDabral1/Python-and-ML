@@ -5,9 +5,13 @@ Project 1: Business Subscription Data
   
   
   
+  
+  
 Project 2 : Bike Rental System
   
   Combine historical usage patterns with weather data in order to forecast hourly bike rental demand
+  
+  
   
   
   
@@ -17,9 +21,13 @@ Project 3 : Top 1000 words
 
 
 
+
+
 Project 4 : Logistic Regression
   
   Apply logistic regression on the Breast Cancer dataset from Kaggle
+  
+  
   
   
   
